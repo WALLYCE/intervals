@@ -1,0 +1,33 @@
+[
+  {
+    "id": "id1",
+    "label": "HIIT padrão",
+    "intervals": [
+      {
+        "label": "Aquecer",
+        "seconds": 15,
+        "intensity": 1
+      },
+      {
+        "label": "Correr",
+        "seconds": 15,
+        "intensity": 2
+      },
+      {
+        "label": "Descansar",
+        "seconds": 15,
+        "intensity": 0
+      },
+      {
+        "label": "Correr",
+        "seconds": 15,
+        "intensity": 2
+      },
+      {
+        "label": "Descansar",
+        "seconds": 15,
+        "intensity": 0
+      }
+    ]
+  }
+]
